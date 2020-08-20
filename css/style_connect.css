@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+}
+html {
+  /* font-size: 10px; */
+  font-family: 'Montserrat', sans-serif;
+  scroll-behavior: smooth;
+}
+p{
+  text-align: left;
+}
+.topconnect{
+  padding: 1rem 3rem;
+}
+.bottom{
+  text-align: center;
+}
+.navbar {
+  background-image: url("bck.jpg");
+  background-size: cover;
+  color: #fff;
+}
+.navbar .navbar-brand{
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.contact-img{
+  height:5rem;
+}
+.contact-img:hover{
+  background-color: grey;
+}
